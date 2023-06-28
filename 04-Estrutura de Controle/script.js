@@ -47,10 +47,17 @@ for (let i = 1; i <= 5; i++) {
   }
 
 // Loops com "while":
-let i = 1;
-while (i <= 5) {
-  console.log("Contagem: " + i);
-  i++;
+let y = 1;
+while (y<= 5) {
+  console.log("Contagem: " + y);
+  y++;
 }
 
-  
+
+// Loops com "do-while":
+var x = 1;
+
+do {
+  console.log("Contagem: " + x);
+  x++;
+} while (x <= 5);
