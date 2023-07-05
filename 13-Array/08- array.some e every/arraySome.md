@@ -31,3 +31,5 @@ console.log(passedExam); // true
 </pre>
 
 ### Neste exemplo, a função some( ) verifica se pelo menos um aluno tem uma pontuação maior ou igual a 60. Como o aluno 'Alice' tem uma pontuação de 80, o retorno é true.
+
+<br>
