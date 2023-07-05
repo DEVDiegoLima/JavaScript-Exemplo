@@ -37,3 +37,13 @@ console.log('10 != "10"?',b !== c);
 // >= e <=
 console.log(10 >= 15) //false
 console.log(5 <= 10)//true
+
+
+//Operadores de incremento e descremento
+var x = 5;
+x++;  // incremento
+console.log(a);  // Output: 6
+
+var y = 10;
+--y;  // decremento
+console.log(b);  // Output: 9
